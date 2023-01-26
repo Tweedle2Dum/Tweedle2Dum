@@ -9,3 +9,4 @@ Tweedle2Dum/Tweedle2Dum is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Tweedle2Dum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tweedle2Dum&count_private=true&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tweedle2Dum)](https://github.com/anuraghazra/github-readme-stats)
