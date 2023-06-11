@@ -8,8 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&multiline=true&width=530&height=30&lines=ABOUT+ME%3A)](https://git.io/typing-svg)
 
-- 🌱 I’m currently refining my CSS and JS skills!
-- 💞️ I’m looking to collaborate on any projects that use HTML,CSS,JS(frontend) and Python(backend).
+- 🌱 I’m currently refining trying to learn Web design and deepen my knowledge on JS !
+- 💞️ I’m looking to collaborate on any projects that use JS frameworks like react , vue ,next  or Python/Ruby/JS as a backend. 
 - 📫 You can reach me at utkarsh.work1405@gmail.com
 
 <!---
