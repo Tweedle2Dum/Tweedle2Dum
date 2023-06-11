@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&multiline=true&width=530&height=65&lines=HEY!+%2C+I+am+Utkarsh+Srivastava...;I+am+a+budding+web+and+app+dev+from+India+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&multiline=true&width=530&height=65&lines=HEY!+%2C+I+am+Utkarsh+Srivastava...;I+am+a+budding+WEB+and+UI/UX developer!!)](https://git.io/typing-svg)
 
 
 
