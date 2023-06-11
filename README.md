@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+budding+WEB+and+UI%2FUX+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&multiline=true&width=545&height=64&lines=Hey!+I+am+Utkarsh+Srivastava.;I+am++interested+in+Web+technologies+and+UI%2FUX)](https://git.io/typing-svg)
 
 
 
